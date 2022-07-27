@@ -1,2 +1,4 @@
-# 02SEMESTRE-Sistema-Hotel
-Proyecto Final Segundo Smestre
+# U_02SEMESTRE-Sistema-Hotel
+Examen final POO 🎁 <br>
+Materia: POO <br>
+Lenguaje: Java
